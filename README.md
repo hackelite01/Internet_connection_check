@@ -16,9 +16,8 @@
 <a href="https://github.com/hackelite01"><img title="Stars" src="https://img.shields.io/github/stars/hackelite01/Internet_connection_check?color=red&style=flat-square"></a>
 <a href="https://github.com/hackelite01"><img title="Forks" src="https://img.shields.io/github/forks/hackelite01/Internet_connection_check?color=red&style=flat-square"></a>
 <a href="https://github.com/hackelite01"><img title="Watching" src="https://img.shields.io/github/watchers/hackelite01/Internet_connection_check?label=Watchers&color=blue&style=flat-square"></a>
-</p><p align="center">
-<a href="https://bit.ly/3gnUcN3"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
+
 
 
 
