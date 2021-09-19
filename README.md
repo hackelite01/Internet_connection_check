@@ -37,5 +37,5 @@ Python3
 
 ### Screenshot/GIF showing the sample use of the script
 
-![output](https://github.com/hackelite01/python-mini-projects/raw/master/projects/Internet_connection_check/output.png)
+![output](https://github.com/hackelite01/Internet_connection_check/output.png)
 
